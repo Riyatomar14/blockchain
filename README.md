@@ -46,6 +46,20 @@ There are different types of cyptography-
 
 ## 1.symmetric key cryptography
 
+ In this encryption method, we take a single key into application. This common key is used for both the encryption as well as the decryption process. 
+
+ disadvantages-  Using a common single key creates a problem of securely transferring the key between the sender and the receiver.
+ 
+![Screenshot 2024-02-08 215101](https://github.com/Riyatomar14/blockchain/assets/143107173/0eb4cff4-4f82-4bdf-a7cf-2fab3bfd47f3)
+
+## cipher text-
+
+describe the encrypted form of a message that was initially created as plaintext. The algorithm used to encrypt the message is known as cipher. 
+
+
+
+
+
 
 
 
