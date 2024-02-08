@@ -20,3 +20,11 @@ advantages - multiple points of execution
 
 ![Screenshot 2024-02-08 205343](https://github.com/Riyatomar14/blockchain/assets/143107173/4dfc60e6-6bfb-4b1a-9c3e-57ce8d76e4f4)
 
+## what is blockchain?
+
+A decentralized computation and information sharing platform that enables multiple authoritative domains, who do not trust eachother, to co-operate,co-ordinate and collaborate in a rational decision making process.
+
+## ledger
+
+A ledger is a type of record keeping where financial transactions are recorded.A ledger database to secure data and enable an immutable ledger.
+
