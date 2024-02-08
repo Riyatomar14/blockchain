@@ -58,6 +58,45 @@ describe the encrypted form of a message that was initially created as plaintext
 
 ## 2.asymmetric key cryptography
 
+Asymmetric encryption is a form of cryptography that allows anyone to verify the integrity of their digital transactions and protect their funds. 
+
+![image](https://github.com/Riyatomar14/blockchain/assets/143107173/fca01a5b-f751-4e5c-b95d-bc4d88efb400)
+
+note-public key used to encrpt the message and private or secret key used to decrypt  the message.
+
+## hashing-
+
+1Hashing in blockchain is a cryptographic process which takes an input (such as text) and turns it into an output of fixed length and structure known as the 'hash value'. It is always the same length and one-way, meaning it cannot be reversed.
+
+## 51% attack-
+
+## CBDC-
+
+## ICO-
+
+## IPO-
+
+## root CA-
+
+## CSR(certificate signong request)-
+
+## encrypted tunnel-
+
+## dsa(digital signing authority)-
+
+## sha-256 -
+
+## IPF 's-
+
+## ERC-20 -
+
+## matic polygon-
+
+## signatures-
+
+
+
+
 
 
 
