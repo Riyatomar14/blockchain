@@ -52,11 +52,11 @@ There are different types of cyptography-
  
 ![Screenshot 2024-02-08 215101](https://github.com/Riyatomar14/blockchain/assets/143107173/0eb4cff4-4f82-4bdf-a7cf-2fab3bfd47f3)
 
-## cipher text-
+# cipher text-
 
 describe the encrypted form of a message that was initially created as plaintext. The algorithm used to encrypt the message is known as cipher. 
 
-
+## 2.asymmetric key cryptography
 
 
 
