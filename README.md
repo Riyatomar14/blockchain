@@ -74,7 +74,8 @@ note-public key used to encrpt the message and private or secret key used to dec
 
 ## ICO-
 
-## IPO-
+## IPO-Blockchain technology has the potential to revolutionize the way initial public offerings (IPOs) are conducted in the investment banking industry. 
+the process of selling shares of a private company to the public for the first time, usually with the help of an intermediary such as an investment bank.
 
 ## root CA-
 
