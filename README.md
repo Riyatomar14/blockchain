@@ -27,4 +27,20 @@ A decentralized computation and information sharing platform that enables multip
 ## ledger
 
 A ledger is a type of record keeping where financial transactions are recorded.A ledger database to secure data and enable an immutable ledger.
+![image](https://github.com/Riyatomar14/blockchain/assets/143107173/35bda7cb-8325-4fad-9d71-8eb73eaf668d)
+
+## feratures of blockchain-
+
+1. decentralized(there is no single owner)
+2. secure(provides very high level of security)
+3. immutable(once written,cannot be changed)
+4. global(no geographical boundaries)
+5. privary and transparency(pseudo anonymous)
+6. consensus based(everyone in the network agrees)
+
+## cyptography--secure communication
+
+cypto means secure and graphy means communication. 
+
+
 
