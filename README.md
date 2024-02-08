@@ -42,5 +42,12 @@ A ledger is a type of record keeping where financial transactions are recorded.A
 
 cypto means secure and graphy means communication. 
 
+There are different types of cyptography-
+
+## 1.symmetric key cryptography
+
+
+
+
 
 
