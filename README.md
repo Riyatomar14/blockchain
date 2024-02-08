@@ -15,3 +15,8 @@ disadvantages - single point of failure
 # 2.decentralized
 
 advantages - multiple points of execution 
+
+![Screenshot 2024-02-08 205315](https://github.com/Riyatomar14/blockchain/assets/143107173/18cce2a2-2801-461e-a2d5-5f2d665604fb)
+
+![Screenshot 2024-02-08 205343](https://github.com/Riyatomar14/blockchain/assets/143107173/4dfc60e6-6bfb-4b1a-9c3e-57ce8d76e4f4)
+
