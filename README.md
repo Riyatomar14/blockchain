@@ -68,7 +68,7 @@ note-public key used to encrpt the message and private or secret key used to dec
 
 1Hashing in blockchain is a cryptographic process which takes an input (such as text) and turns it into an output of fixed length and structure known as the 'hash value'. It is always the same length and one-way, meaning it cannot be reversed.
 
-## 51% attack-
+## 51% attack-A 51% attack is an attack on a blockchain network where a single entity gains control of more than half (51%) of its staking or computational power. 
 
 ## CBDC-
 
