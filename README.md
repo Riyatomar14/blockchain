@@ -94,6 +94,10 @@ note-public key used to encrpt the message and private or secret key used to dec
 
 ## signatures-
 
+![image](https://github.com/Riyatomar14/blockchain/assets/143107173/2b1a43f6-2b72-4524-8ba9-ab783183034b)
+
+
+
 
 
 
