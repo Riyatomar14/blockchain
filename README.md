@@ -70,28 +70,28 @@ note-public key used to encrpt the message and private or secret key used to dec
 
 ## 51% attack-A 51% attack is an attack on a blockchain network where a single entity gains control of more than half (51%) of its staking or computational power. 
 
-## CBDC-
+## CBDC-CBDC operates on a secure, transparent blockchain network, and it uses blockchain technology to create an immutable record of all transactions. This means that all transactions are recorded on a decentralized ledger, making it impossible to modify or tamper with the data.
 
-## ICO-
+## ICO-An initial coin offering (ICO) is an event where a company sells a new cryptocurrency to raise money.
 
 ## IPO-Blockchain technology has the potential to revolutionize the way initial public offerings (IPOs) are conducted in the investment banking industry. 
 the process of selling shares of a private company to the public for the first time, usually with the help of an intermediary such as an investment bank.
 
-## root CA-
+## root CA-In cryptography and computer security, a root certificate is a public key certificate that identifies a root certificate authority (CA).Root certificates are self-signed (and it is possible for a certificate to have multiple trust paths, say if the certificate was issued by a root that was cross-signed) and form the basis of an X.509-based public key infrastructure (PKI). 
 
-## CSR(certificate signong request)-
+## CSR(certificate signing request)-A certificate signing request (CSR) is one of the first steps towards getting your own SSL/TLS certificate.
 
-## encrypted tunnel-
+## encrypted tunnel-With SD-WAN, each piece of data sent across branches is encrypted and travels through a secure tunnel.
 
-## dsa(digital signing authority)-
+## dsa(digital signing authority)-DSA is a signature-only algorithm and requires a private key for signing and a public key for verifying. 
 
-## sha-256 -
+## sha-256 -SHA-256 can help secure SSL/TLS (Transport Layer Security) certificates by creating a digital signature your device can verify. 
 
-## IPF 's-
+## IPF 's-IPFS is a file sharing system that can be leveraged to more efficiently store and share large files. It relies on cryptographic hashes that can easily be stored on a blockchain.
 
-## ERC-20 -
+## ERC-20 -Ethereum Request for Comment 20 (ERC20) is a standard for the Ethereum blockchain that requires nine scripting functions and two events that must be used when creating a fungible token within a smart contract.
 
-## matic polygon-
+## matic polygon-Polygon (formerly Matic Network) is a blockchain platform which aims to create a multi-chain blockchain system compatible with Ethereum. As with Ethereum, it uses a proof-of-stake consensus mechanism for processing transactions on-chain.
 
 ## signatures-
 
