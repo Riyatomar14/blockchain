@@ -79,6 +79,9 @@ the process of selling shares of a private company to the public for the first t
 
 ## root CA-In cryptography and computer security, a root certificate is a public key certificate that identifies a root certificate authority (CA).Root certificates are self-signed (and it is possible for a certificate to have multiple trust paths, say if the certificate was issued by a root that was cross-signed) and form the basis of an X.509-based public key infrastructure (PKI). 
 
+![image](https://github.com/Riyatomar14/blockchain/assets/143107173/57258e31-a5f4-4b8d-968c-edf4d07619ea)
+
+
 ## CSR(certificate signing request)-A certificate signing request (CSR) is one of the first steps towards getting your own SSL/TLS certificate.
 
 ## encrypted tunnel-With SD-WAN, each piece of data sent across branches is encrypted and travels through a secure tunnel.
