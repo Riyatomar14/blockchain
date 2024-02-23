@@ -137,6 +137,13 @@ Polygon (formerly Matic Network) is a blockchain platform which aims to create a
 
 ![image](https://github.com/Riyatomar14/blockchain/assets/143107173/2b1a43f6-2b72-4524-8ba9-ab783183034b)
 
+## bitcoin architecture
+
+![Screenshot 2024-02-24 020216](https://github.com/Riyatomar14/blockchain/assets/143107173/3cf9eab7-6f91-4e25-b1cc-c75d438a270c)
+
+problem: anyone can submit transactions on anyone's behalf in the network by digital signature for authentication.
+
+
 
 
 
