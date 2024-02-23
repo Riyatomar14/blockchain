@@ -6,6 +6,8 @@ The first decentralized blockchain was conceptualized by a person (or group of p
 
 ![Screenshot 2024-02-08 203524](https://github.com/Riyatomar14/blockchain/assets/143107173/a465db94-6530-4d76-b3a5-c22baa83ef9f)
 
+bitcoin which only used to exchange money from one person to another.then introduce ethereum which is being used at a global level and created smart contracts from which you can do with blockchain. after that, hyperledger which is a permission or enterprise blockchain . we see similarities in bitcoin and in ethereum like security,transparency,immutability,and decentralized.so, except the feature transparency and goes to next framework hyperledger is a open source framework and manged by linux foundation and now it can applied to any systems .
+
 ## Types of networks-
 
 # 1.Centralized
