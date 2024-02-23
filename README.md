@@ -18,6 +18,8 @@ disadvantages - single point of failure
 
 advantages - multiple points of execution 
 
+![image](https://github.com/Riyatomar14/blockchain/assets/143107173/d28227e0-a7b7-41ef-85ad-73c2e2037300)
+
 ![Screenshot 2024-02-08 205315](https://github.com/Riyatomar14/blockchain/assets/143107173/18cce2a2-2801-461e-a2d5-5f2d665604fb)
 
 ![Screenshot 2024-02-08 205343](https://github.com/Riyatomar14/blockchain/assets/143107173/4dfc60e6-6bfb-4b1a-9c3e-57ce8d76e4f4)
