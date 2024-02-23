@@ -16,7 +16,7 @@ disadvantages - single point of failure
 
 # 2.decentralized
 
-advantages - multiple points of execution 
+advantages - multiple points of execution ex: torrent that's why government is not abke to bsn because it is not central but a decentralized.
 
 ![image](https://github.com/Riyatomar14/blockchain/assets/143107173/d28227e0-a7b7-41ef-85ad-73c2e2037300)
 
@@ -33,7 +33,7 @@ A decentralized computation and information sharing platform that enables multip
 A ledger is a type of record keeping where financial transactions are recorded.A ledger database to secure data and enable an immutable ledger.
 ![image](https://github.com/Riyatomar14/blockchain/assets/143107173/35bda7cb-8325-4fad-9d71-8eb73eaf668d)
 
-## feratures of blockchain-
+## features of blockchain-
 
 1. decentralized(there is no single owner)
 2. secure(provides very high level of security)
