@@ -68,10 +68,19 @@ Asymmetric encryption is a form of cryptography that allows anyone to verify the
 
 note-public key used to encrpt the message and private or secret key used to decrypt  the message.
 
-## hashing-
+## hashing(keyless cryptography)
 
-1Hashing in blockchain is a cryptographic process which takes an input (such as text) and turns it into an output of fixed length and structure known as the 'hash value'. It is always the same length and one-way, meaning it cannot be reversed.
+1Hashing in blockchain is a cryptographic process which takes an input (such as text) and turns it into an output of fixed length and structure known as the 'hash value'. 
 
+a)It is always the same length 
+b)one-way, meaning it cannot be reversed
+c)unique hash of each input
+d) "avalanche effect", which means that a small change in the input results in a significant change in the output, making it statistically indistinguishable from random
+
+-> algorithm in hash-
+1.SHA 256-bitcoin(famous)
+2. MD 150
+3.Keccak 256
 ## 51% attack-
 
 A 51% attack is an attack on a blockchain network where a single entity gains control of more than half (51%) of its staking or computational power. 
