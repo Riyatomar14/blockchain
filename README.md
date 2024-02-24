@@ -161,6 +161,9 @@ problem: miners can hack and tamper(he think as he does not have anything to los
 
 -> give them penalty-ask them to do some works so that they have something to lose if they provide if they provide an invalid block.
 
+![image](https://github.com/Riyatomar14/blockchain/assets/143107173/fcd11279-00bd-467b-82de-f129b01147ac)
+
+
 
 
 
