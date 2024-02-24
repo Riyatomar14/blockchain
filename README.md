@@ -141,9 +141,25 @@ Polygon (formerly Matic Network) is a blockchain platform which aims to create a
 
 ![Screenshot 2024-02-24 020216](https://github.com/Riyatomar14/blockchain/assets/143107173/3cf9eab7-6f91-4e25-b1cc-c75d438a270c)
 
-problem: anyone can submit transactions on anyone's behalf in the network by digital signature for authentication.
+problem: anyone can submit transactions on anyone's behalf in the network?
 
+-> by digital signature for authentication
 
+problem: through directly entering the transaction into the ledger and having a mismatch in the sequence of transactions ?
+
+-> every person in the network have a transaction pool(also called memory pool is a temporary storage before entering the data into the ledger) when, transaction request is send then first it validate otherwise sits in transaction pool and then added to the ledger.In this way, no wrong sequence can enter the ledger.
+
+problem: cannot deal with mutiple blocks at the same time?
+
+->miners as volunteers will create and validate the bolck ,whoever finds the block first wins
+
+problem: why they want to volunteer?
+
+-> give them a montetary rewards
+
+problem: miners can hack and tamper(he think as he does not have anything to lose) transaction while validating?
+
+-> give them penalty-ask them to do some works so that they have something to lose if they provide if they provide an invalid block.
 
 
 
