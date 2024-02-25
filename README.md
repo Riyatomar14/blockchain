@@ -97,12 +97,24 @@ Any change to the usual working of a blockchain results in a fork.
 -> types-
 ## 1.temporary Fork
 
-this type of fork is made in 51% attack and at the time when two miners validate the same bitcoin , then the miners which having the longest chain of blocks will wins and gets the rewards.
+this type of fork is made in 51% attack and at the time when two miners validate the same bitcoin at the same time, then the miners which having the longest chain of blocks will wins and gets the rewards.
 
 ## 2.Soft Fork
 
-
 ## 3.Hard Fork
+
+![image](https://github.com/Riyatomar14/blockchain/assets/143107173/118c0943-c6b9-4229-b683-30990c8f3eba)
+
+## halving
+
+Halving is a process in which the reward given to miners or validators in a cryptocurrency network is reduced by half after a certain number of blocks are processed.
+
+## double spending-
+
+“Double-spending” means that the same units of a currency could be spent twice. Double-spending would destroy the trust in a cryptocurrency.
+
+solution : Bitcoin uses a distributed ledger to publically record all transactions on the network. A distributed ledger allows anyone to view the entire history of each coin, and prove that no coin was spent twice.
+
 
 ## CBDC(Central Bank Digital Currency)-
 
