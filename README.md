@@ -207,6 +207,31 @@ problem: miners can hack and tamper(he think as he does not have anything to los
 
 a wallet is a software program that keeps a track of your money in the blockchain means it actually stores your cryptocurrency keys and lts your access your coins.
 
+![Screenshot 2024-02-25 114426](https://github.com/Riyatomar14/blockchain/assets/143107173/5c271b07-1fd4-4ee3-8780-6aaadd67d068)
+
+## exchanges-
+1.fiat exchange-from physical money to crypto currency
+
+2.Altcoin- from crypto to crypto ex: from bitcoin to ethereum.
+
+## what determine the price of the bitcoin ?
+
+->suppy vs demand
+
+## smart contracts(provide trust,it is a self executing programs,transparency)
+
+-> CRUD -crete read update delete
+
+A smart contract is defined as a digital agreement that is signed and stored on a blockchain network, which executes automatically when the contract's terms and conditions (T&C) are met. The T&C is written in blockchain-specific programming languages such as Solidity.
+
+## Dapps(decentralized application)
+
+Dapps are decentalized applications govered by smart contracts and built on yhe blockchain.
+
+A decentralized application (DApp) is a type of distributed, open source software application that runs on a peer-to-peer (P2P) blockchain network rather than on a single computer.
+
+## DAO(decentralized autonous organisation)
+
 
 
 
