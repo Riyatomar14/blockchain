@@ -135,6 +135,9 @@ In cryptography and computer security, a root certificate is a public key certif
 
 ![image](https://github.com/Riyatomar14/blockchain/assets/143107173/57258e31-a5f4-4b8d-968c-edf4d07619ea)
 
+## KYC
+
+KYC is a process that cryptocurrency exchanges must use to: Confirm their end users' and customers' personal information.
 
 ## CSR(certificate signing request)-
 
@@ -200,7 +203,9 @@ problem: miners can hack and tamper(he think as he does not have anything to los
 
 ![image](https://github.com/Riyatomar14/blockchain/assets/143107173/c83778b5-23b8-4505-b170-a59006274122)
 
+## wallets-
 
+a wallet is a software program that keeps a track of your money in the blockchain means it actually stores your cryptocurrency keys and lts your access your coins.
 
 
 
