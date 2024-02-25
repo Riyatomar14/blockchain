@@ -232,6 +232,19 @@ A decentralized application (DApp) is a type of distributed, open source softwar
 
 ## DAO(decentralized autonous organisation)
 
+A DAO replaces the central authority of an organization with rules encoded in smart contracts that are stored on the blockchain. Instead of a manager or executive board making decisions, a DAO works based on the consensus of its members, who vote on the details of the contracts.
+
+Smart contracts can be proposed and written by anyone who participates in the DAO. For example, someone might want to change the rules of the DAO, and someone else might have an idea on how to best spend the DAO’s funds.
+
+Once a smart contract is drawn up, it becomes visible to all members on the blockchain. Members then vote — which is also a fully transparent process — on the smart contract. The DAO will only execute the smart contract if consensus is reached among members.
+
+The mechanics of a DAO involve complex cryptography and computer coding. DAOs are also a major part of web3 and the metaverse.
+
+## Tokens
+
+
+
+
 
 
 
