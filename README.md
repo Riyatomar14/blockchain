@@ -194,7 +194,9 @@ problem: miners can hack and tamper(he think as he does not have anything to los
 
 ![image](https://github.com/Riyatomar14/blockchain/assets/143107173/fcd11279-00bd-467b-82de-f129b01147ac)
 
+## consensus-
 
+![image](https://github.com/Riyatomar14/blockchain/assets/143107173/b964b7b3-140b-49f5-b658-ececb67a0c6d)
 
 
 
