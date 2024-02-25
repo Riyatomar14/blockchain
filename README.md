@@ -122,7 +122,7 @@ CBDC operates on a secure, transparent blockchain network, and it uses blockchai
 
 ## ICO-
 
-An initial coin offering (ICO) is an event where a company sells a new cryptocurrency to raise money.
+An Initial Coin Offering (ICO) is a fundraising method used by blockchain projects and startups to raise capital by issuing digital tokens or cryptocurrencies to investors.
 
 ## IPO-
 
@@ -242,8 +242,56 @@ The mechanics of a DAO involve complex cryptography and computer coding. DAOs ar
 
 ## Tokens
 
+These tokens act as digital currencies and are used for financial transactions within a blockchain network. Examples include Bitcoin (BTC), Ethereum (ETH), and Litecoin (LTC).
 
+-> types of tokens-
 
+1.Utility token-use the tokens for utilizing the product or service 
+
+2.Security token-provide and ownership
+
+3.Equality token- hold like shares and get dividends 
+
+4.Debt token-hold tokens and get interest 
+
+## permissionless and permission blockchain
+
+-> Permissionless Blockchain:
+
+> Also known as public blockchains.
+
+> Anyone can participate in the network without requiring approval or permission.
+
+> No central authority controls the network; instead, it operates on a decentralized consensus mechanism (e.g., Proof of Work in Bitcoin, Proof of Stake in Ethereum 2.0).
+
+> Transactions are transparent and immutable, visible to all participants on the network.
+
+> Examples include Bitcoin, Ethereum, and many other cryptocurrencies.
+Generally suited for decentralized applications, open financial systems, and scenarios where censorship resistance and decentralization are valued.
+
+->Permissioned Blockchain:
+
+> Also known as private or consortium blockchains.
+
+> Access to the network is restricted, and participants require permission from a controlling entity (like a consortium or governing organization) to join and transact.
+
+> Typically managed by a central authority or a consortium of multiple organizations, providing greater control over governance, privacy, and scalability.
+
+> Participants often need to be identified and authenticated, leading to higher levels of privacy and confidentiality compared to permissionless blockchains.
+
+> Transactions may be either public or private, depending on the design of the blockchain network.
+
+> Examples include Hyperledger Fabric, R3 Corda, and some enterprise blockchain solutions.
+
+> Suited for business-to-business (B2B) scenarios, supply chain management, consortiums, and applications where trust between participants is established and regulatory compliance is essential.
+
+## gas concept-
+
+In blockchain networks like Ethereum, "gas" refers to the unit of measurement used to quantify the computational effort required to execute operations or smart contracts on the network. Gas is a crucial concept in Ethereum's fee system, as it determines the cost of executing transactions and smart contracts.
+
+-> Processing Cost: Every operation performed on the Ethereum network, such as sending tokens or interacting with smart contracts, requires computational resources. The gas mechanism ensures that users pay for these resources according to the complexity of their transactions.
+
+-> Gas Price and Gas Limit: Gas price represents the amount of cryptocurrency (usually measured in ether or gwei, a subunit of ether) that users are willing to pay per unit of gas. Gas limit refers to the maximum amount of gas users are willing to spend on a transaction. The total transaction fee is calculated as the gas price multiplied by the gas used, with the gas used being the actual amount of gas consumed during transaction execution.
 
 
 
