@@ -81,11 +81,30 @@ d) "avalanche effect", which means that a small change in the input results in a
 1.SHA 256-bitcoin(famous)
 2. MD 150
 3.Keccak 256
+
 ## 51% attack-
 
 A 51% attack is an attack on a blockchain network where a single entity gains control of more than half (51%) of its staking or computational power. 
 
-## CBDC-
+![Screenshot 2024-02-25 093619](https://github.com/Riyatomar14/blockchain/assets/143107173/38c0f16e-78dd-49d7-ad8c-063a144207e7)
+
+confirmation mechanism: the receiver has to wait to 5-6 block ater transfer the bitcoin after that chance of attack decreases.
+
+## FORKS-
+
+Any change to the usual working of a blockchain results in a fork.
+
+-> types-
+## 1.temporary Fork
+
+this type of fork is made in 51% attack and at the time when two miners validate the same bitcoin , then the miners which having the longest chain of blocks will wins and gets the rewards.
+
+## 2.Soft Fork
+
+
+## 3.Hard Fork
+
+## CBDC(Central Bank Digital Currency)-
 
 CBDC operates on a secure, transparent blockchain network, and it uses blockchain technology to create an immutable record of all transactions. This means that all transactions are recorded on a decentralized ledger, making it impossible to modify or tamper with the data.
 
